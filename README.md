@@ -55,4 +55,5 @@ The program displays a menu, takes user input, performs calculations using basic
 ---
 
 ## ✅ Output Example
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/68ddac8a-42ab-4e93-8bc9-b99608fad49f" />
+<img width="1918" height="1019" alt="Screenshot 2026-01-05 172111" src="https://github.com/user-attachments/assets/1689ea1f-a832-4790-88bd-fec17d4bf3f2" />
+
